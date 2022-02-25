@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://isbendiyarovanezrin.github.io/FunWithCanvas">
-    <img title="Click me!🙂" src="https://i.postimg.cc/0NDVXknx/canvas2.gif" />
-  </a>
+
+[![HTML5 Canvas project preview](https://i.postimg.cc/0NDVXknx/canvas2.gif)](https://isbendiyarovanezrin.github.io/FunWithCanvas)
+
 </div>
